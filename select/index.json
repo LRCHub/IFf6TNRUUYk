@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "UMA's Dance",
+  "base_artist": "AVACLUB",
+  "createdAt": "2026-02-25T06:30:46.830215Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UMA's Dance",
+      "artist": "AVACLUB",
+      "has_synced": false,
+      "path": "select/pl_01_UMA's_Dance_AVACLUB.txt"
+    }
+  ]
+}
